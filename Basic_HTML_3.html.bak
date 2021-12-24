@@ -1,0 +1,49 @@
+<!Doctype html>
+<html lang ="en">
+	<head>
+		<title>Celestial Phenomena</title>
+		<meta charset= "utf-8">
+	</head>
+	
+	<nav>
+	<a href="https://nasasearch.nasa.gov/search/images?affiliate=nasa&query=eclipses">Photos from NASA</a>
+	<a href="https://www.spacex.com/">SpaceX</a>
+	</nav>
+
+	<body>
+	<main>
+	<style>
+	h1 {text-align:center;
+	}
+	</style>
+	<h1>Solar Eclipses</h1>
+	<img src="eclipse-solar-6-8-2018-Svalbard-Norway-Thanakrit-Santikunaporn-e1632514479978.jpeg" alt="Oh no, it appears something went wrong, don't worry! I'm on it!">
+	<div style="color:blue">
+	<p><h3>Eclipses are some of the most spectacular events you may ever witness.
+	Earths moon momentarily lines up just right to temporarily block out the massive star in our sky.
+	If you ever get the opportunity, <i>dont miss it!</i></h3>
+	</p>
+	
+	</div>
+	<iframe width="800" height="690"
+	src="https://www.youtube.com/embed/cxrLRbkOwKs">
+	</iframe>
+	<div style="color:red">
+	<p>Here is a quote from Space.com:</p>
+	<blockquote cite="https://www.space.com/15584-solar-eclipses.html">
+	The fact that an eclipse can occur at all is a fluke of celestial mechanics and time. 
+	Since the moon formed about 4.5 billion years ago, it has been gradually moving away 
+	from Earth (by about 1.6 inches, or 4 centimeters per year). Right now the moon is at 
+	the perfect distance to appear in our sky exactly the same size as the sun, and therefore block it out.
+	</blockquote>
+	</div>
+	</main>
+
+	<h3>A Partial eclipse is well worth your time also!</h3>
+<a href="https://www.nasa.gov/sites/default/files/1280px-partial_solar_eclipse_may_20_2012_minneapolis_minnesota_tlr1.jpg">Here's a great example from NASA.</a>
+	
+	</body>
+	<footer>
+	<p>Author: Erick Crowne</p>
+	</footer>
+</html>
