@@ -1,0 +1,7 @@
+ol {
+	list-style-type: space-counter;
+}
+
+ul {
+	list-style-type: square;
+}
