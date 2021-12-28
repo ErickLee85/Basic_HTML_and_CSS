@@ -1,0 +1,18 @@
+table {
+	border: 3px solid silver;
+}
+td:hover {
+	background-color: yellow;
+	color: black;
+	font: shizuru;
+}
+tr, th {
+	background-color: black;
+	color: cornsilk;
+	font: shizuru;
+}
+tr, td {
+	background-color: black;
+	color: cornsilk;
+	font: shizuru;
+}

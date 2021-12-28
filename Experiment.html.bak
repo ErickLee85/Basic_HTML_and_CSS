@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<body>
+<style>
+h1 {
+  text-shadow: 2px 2px red;
+}
+</style>
+
+	<p>
+		Oh today will be a lovely day,<br>
+		The sun is shining and the birds are singing.<br>
+	</p>
+	<p>
+	I wish my eyes were <span style="color: blue; font-weight: bold">blue</span> but <br>
+	<span style="color:green; font-weight: bold">hazel</span> is still pretty.
+<section>
+	<h1>Solar Eclipse</h1>
+	<p><span style="font-style:italic; font-weight:bold">To witness a total solar eclipse in all its' glory may be one of the most<br>
+	indelible experiences of your entire life.</span><br>
+	-Erick Crowne
+	</p>
+</section>
+<section>
+	<h1>Lunar Eclipse</h1>
+	<p><span style="font-style:italic; font-weight:bold">Watching the moon morph from its usual silver to a blood red before your<br>
+	very eyes is an equally powerful experience as well.</span>
+	</p>
+	<p>Is&nbsp;&nbsp;this&nbsp;&nbsp;working?</p>
+<footer>
+	<p>&copyErick Crowne</p>
+</footer>
+</body>
+</html>

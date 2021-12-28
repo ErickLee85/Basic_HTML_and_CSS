@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<ol>
+		<li>Fish</li>
+		<li>Eggs</li>
+		<li>Cereal</li>
+		<li>Whole milk</li>
+	</ol>
+	
+	<ul>
+		<li>Dinosaurs</li>
+		<li>Fish</li>
+		<li>Mammals</li>
+		<li>Protists</li>
+	</ul>
+</body>
