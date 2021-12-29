@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+		<head>
+	<article>
+		<h1>SuperNovas</h1>
+			<p>Exploding stars are possibly the most violent events in the entire Universe,<br>
+			the after affects can span millions of light years in distance.</p>
+	</article>
+	
+	<details>
+		<summary>SuperNovas</summary>
+			<p>Exploding stars are possible the most violent events in the entire Universe,<br>
+			the after affects can span millions of light years in distance.</p>
+	</details>
+	
+	<p>The James Webb Space Telescope launched on an Ariane 5 Rocket on <time datetime="2021-12-25 06:00">
+	</p>
+		</head>
+</html>
